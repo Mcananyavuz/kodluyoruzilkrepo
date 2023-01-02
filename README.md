@@ -4,7 +4,7 @@ Kodluyoruz eğitimi kapsamında açtığım ilk repo Meryem Canan Yavuz
 
 Bu repo [kodluyoruz]{https://kodluyoruz.org/tr/kodluyoruz/} Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![]( https://github.com/Mcananyavuz/kodluyoruzilkrepo/repo.png )
+![]( https://github.com/Mcananyavuz/kodluyoruzilkrepo/blob/main/repo.png )
 
 # Installation 
 ###
